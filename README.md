@@ -74,7 +74,7 @@ Average feature values of Sepal Length, Sepal Width, Petal Length, and Petal Wid
 
 ├── Iris.csv
 
-├── iris_visualization.ipynb
+├── task2.ipynb
 
 ├── requirements.txt
 
